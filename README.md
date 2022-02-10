@@ -11,7 +11,7 @@ Its also possible to have two buttons instead of one. In this case the view snap
 
 **How to use:**
 
-```
+```swift
 let deleteImage = UIImage(named: "delete")!
 let rightFirstButtonConfig = SlideMenuViewButtonConfig(backgroundColor: .darkRed, instantFireBackgroundColor: .red, image: deleteImage) {
   // Do some magic here
