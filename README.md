@@ -9,6 +9,8 @@ In the example below is a UIStackView inside of a UIScrollView. The stackview ha
 
 Its also possible to have two buttons instead of one. In this case the view snap to a fix position after you breakt through a defined barrier point.
 
+![example2](https://user-images.githubusercontent.com/1539891/153443791-be83fb96-4273-4311-ad3f-fdd8e20bb7b9.gif)
+
 **How to use:**
 
 ```swift
